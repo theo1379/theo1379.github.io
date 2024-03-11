@@ -1,0 +1,42 @@
+h1
+{
+	text-align:center;
+	background-color:;
+	text-shadow: #FC0 1px 0 10px;
+}
+p
+{
+	position:absolute;
+	font-size:20px;
+	left:400px;
+	top:150px;
+	color: black;
+}
+.img_0
+{
+	position:relative;
+	margin-left:30px;
+	top:5px;
+}	
+h2
+{
+	position:absolute;
+	font-size:30px;
+	left:400px;
+	top:100px;
+}
+mark {
+background-color: red;
+color: black;
+}
+.img_1
+{
+	position:absolute;
+	margin-left:550px;
+	top:225px;
+}
+h3
+{
+	padding-left:50px;
+	font-style:italic;
+}
